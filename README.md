@@ -15,7 +15,7 @@ In the city
                   2).Intermediate(Science) Aggregate - 91.2%
                   3).Secondary school (Computer Science) Aggregate - 3.75 GPA
 
-👉Good hold upon Data str6and algorithms Certified by IIT KHARAGPUR
+👉Good hold upon Data structure and algorithms Certified by IIT KHARAGPUR
 
 👉Core Competence: C/C++, python, SQL, HTML, CSS, javascript, Data structures and Algorithms 
                      Core Computer Science :
