@@ -3,6 +3,8 @@
 I am a Computer Science major student from MSIT, kolkata which is one of the reputed institutions
 In the city
 
+BE A GOOD HUMAN FIRST THEN BE A GOOD PROFESSIONAL
+
 - 🔭 I’m currently working on ML and Data science projects
 - 🌱 I’m currently learning Data science
 - 👯 I’m looking to collaborate with Data scientist/analyst
