@@ -18,6 +18,7 @@ BE A GOOD HUMAN FIRST THEN BE A GOOD PROFESSIONAL
                   3).Secondary school (Computer Science) Aggregate - 3.75 GPA
 
 👉Good hold upon Data structure and algorithms Certified by IIT KHARAGPUR
+Soft skills and Personality Development Certified by IIT KANPUR
 
 👉Core Competence: C/C++, python, SQL, HTML, CSS, javascript, Data structures and Algorithms 
                      Core Computer Science :
