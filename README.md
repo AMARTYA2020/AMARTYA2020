@@ -19,11 +19,3 @@ BE A GOOD HUMAN FIRST THEN BE A GOOD PROFESSIONAL
 👉Good hold upon Data structure and algorithms Certified by IIT KHARAGPUR ,
 Soft skills and Personality Development Certified by IIT KANPUR
 
-👉Core Competence: C/C++, python, SQL, HTML, CSS, javascript, Data structures and Algorithms 
-                     Core Computer Science :
-                      1).Digital electronics 
-                      2).Operating System
-                      3).Databases Management System
-                      4).Computer Architecture and Organization
-                      5).Object Oriented Programming
-                      6).Computer Networks
