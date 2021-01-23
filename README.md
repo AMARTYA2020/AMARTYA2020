@@ -4,7 +4,8 @@ I am a Computer Science major student from MSIT, kolkata which is one of the rep
 In the city
 
 # BE A GOOD HUMAN FIRST THEN BE A GOOD PROFESSIONAL
-# Your Character matters as technical skills can be gained with rigorous and continious effort 
+# Character matters as technical skills can be gained with rigorous and continious effort but not the character
+
 
 - 🔭 I’m currently working on ML and Data science and various other projects 
 - 🌱 I’m currently learning Data science
