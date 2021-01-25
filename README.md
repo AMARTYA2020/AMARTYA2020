@@ -7,7 +7,7 @@ In the city
 # Character matters as technical skills can be gained with rigorous and continious effort but not the character
 
 
-- 🔭 I’m currently working on ML and Data science and various other projects 
+ # 🔭 I’m currently working on ML and Data science and various other projects 
 - 🌱 I’m currently learning Data science
 - 👯 I’m looking to collaborate with Data scientist/analyst
 - 🤔 I’m looking for help with peers and like minded people
