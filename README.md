@@ -3,7 +3,7 @@
 I am a Computer Science major student from MSIT, kolkata which is one of the reputed institutions
 In the city
 
-# BE A GOOD HUMAN FIRST THEN BE A GOOD PROFESSIONAL
+
 # Character matters as technical skills can be gained with rigorous and continious effort but not the character
 
 
