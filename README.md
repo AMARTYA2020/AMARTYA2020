@@ -4,7 +4,7 @@ I am a Computer Science major student from MSIT, kolkata which is one of the rep
 In the city
 
 
- Character matters as technical skills can be gained with rigorous and continious effort but not the character
+ Focus 👉Character matters as technical skills can be gained with rigorous and continious effort but not the character
 
 
  # 🔭 I’m currently working on ML and Data science and various other projects 
@@ -18,6 +18,6 @@ In the city
                   2).Intermediate(Science) Aggregate - 91.2%
                   3).Secondary school (Computer Science) Aggregate - 3.75 GPA
 
-👉Good hold upon Data structure and algorithms Certified by IIT KHARAGPUR ,
+Good hold upon Data structure and algorithms Certified by IIT KHARAGPUR ,
 Soft skills and Personality Development Certified by IIT KANPUR
 
