@@ -13,7 +13,7 @@ In the city
 - 🤔 I’m looking for help with peers and like minded people
 - 💬 Ask me about Resilience and coding experience
 # 📫 How to reach me: Linkedin-> https://www.linkedin.com/in/amartya-pandey-0aa21719b/
-- ⚡ Fun fact: I am very keen to learn new technologies, also i am a Philanthropist person :)
+- ⚡ Fun fact: I am very keen to learn new technologies moreover ML and Datascience
 👉Qualifications: 1).B.tech @ Computer Science and Engineering 
                   2).Intermediate(Science) Aggregate - 91.2%
                   3).Secondary school (Computer Science) Aggregate - 3.75 GPA
