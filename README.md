@@ -14,10 +14,9 @@ In the city
 - 💬 Ask me about Resilience and coding experience
 # 📫 How to reach me: Linkedin-> https://www.linkedin.com/in/amartya-pandey-0aa21719b/
 - ⚡ Fun fact: I am very keen to learn new technologies moreover ML and Datascience
-👉Qualifications: 1).B.tech @ Computer Science and Engineering 
-                  2).Intermediate(Science) Aggregate - 91.2%
-                  3).Secondary school (Computer Science) Aggregate - 3.75 GPA
+👉B.tech @ Computer Science and Engineering 
+                  
 
-Good hold upon Data structure and algorithms Certified by IIT KHARAGPUR ,
-Soft skills and Personality Development Certified by IIT KANPUR
+Good understanding upon Data structure and algorithms Certified by IIT KHARAGPUR ,
+Skilled in Soft skills and Personality Development Certified by IIT KANPUR
 
