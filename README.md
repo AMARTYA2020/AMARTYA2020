@@ -13,7 +13,9 @@ In the city
 - 🤔 I’m looking for help with peers and like minded people
 - 💬 Ask me about Resilience and coding experience
 # 📫 How to reach me: Linkedin-> https://www.linkedin.com/in/amartya-pandey-0aa21719b/
-- ⚡ Fun fact: I am very keen to learn new technologies moreover ML and Datascience
+- ⚡ Fun fact: Coding/Development is the only thing that brings immense joy as well as immense pain :)
+- 
+- I am very keen to learn new technologies moreover ML and Datascience
 👉B.tech @ Computer Science and Engineering 
                   
 
