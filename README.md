@@ -1,6 +1,6 @@
 ### Hi there I am Amartya pandey👋
 
-I am a Computer Science major student from MSIT, kolkata which is one of the reputed institutions
+I am a Computer Science major student from MSIT under West Bengal university of Technology, kolkata which is one of the reputed institutions
 In the city
 
 
@@ -12,7 +12,7 @@ In the city
 - 👯 I’m looking to collaborate with Data scientist/analyst
 - 🤔 I’m looking for help with peers and like minded people
 - 💬 Ask me about Resilience and coding experience
-# 📫 How to reach me: Linkedin-> https://www.linkedin.com/in/amartya-pandey-0aa21719b/
+ 📫 How to reach me: Linkedin-> https://www.linkedin.com/in/amartya-pandey-0aa21719b/
 - ⚡ Fun fact: Coding/Development is the only thing that brings immense joy as well as immense pain :)
 - 
 - I am very keen to learn new technologies moreover ML and Datascience
