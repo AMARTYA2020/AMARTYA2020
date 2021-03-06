@@ -14,6 +14,7 @@
 - 📫 How to reach me **amartyapandey19@gmail.com**
 
 - ⚡ Fun fact **Coding/Development is the only thing that brings immense joy as well as immense pain :)**
+- Ultimate Life Motto: Character First Success Second :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
