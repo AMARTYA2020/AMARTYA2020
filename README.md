@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amartya2020&theme=darkhub" alt="amartya2020" /></a> </p>
 
-- 🔭 I’m currently working on **AI,ML and a passionate doing open source Contribution**
+- 🔭 I’m currently working on **Various projects mainly emphasis on Python and its various modules**
 
 - 🤝 I’m looking for help with **Developers and Like minded people**
 
