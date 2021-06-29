@@ -16,7 +16,7 @@
 - ⚡ Fun fact **Coding/Development is the only thing that brings immense joy as well as immense pain :)**
 - Ultimate Life Motto: Character and Perspective is everything :)
 
-- Please provide me stars only if you like my works would be grateful and encouraged for my future endeavours!
+- Please provide me stars if you like my works would be grateful and encouraged for my future endeavours!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
