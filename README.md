@@ -16,6 +16,8 @@
 - ⚡ Fun fact **Coding/Development is the only thing that brings immense joy as well as immense pain :)**
 - Ultimate Life Motto: Character and Perspective is everything :)
 
+- Please provide me stars only if you like my works would be grateful and encouraged for my future endeavours!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amartya2020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amartya2020" height="30" width="40" /></a>
