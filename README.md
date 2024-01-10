@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amartya2020&theme=darkhub" alt="amartya2020" /></a> </p>
 
-- 🔭 I’m currently working on **Various projects mainly emphasis on Python and its various modules, Machine Learning, Bid data, Web Developmen**
+- 🔭 I’m currently working on **DevOps projects/ implementation of end to end CICD Pipeline**
 
 - 🤝 I’m looking for help with **Developers and Like minded people**
 
