@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amartya Pandey</h1>
-<h3 align="center"></Developer> || DevOps/SRE enthusiast || Developer || Open Source Contributor @github || </h3>
+<h3 align="center"></Developer> || DevOps/SRE/Networking enthusiast || Developer || Open Source Contributor @github || </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartya2020&label=Profile%20views&color=0e75b6&style=flat" alt="amartya2020" /> </p>
 
